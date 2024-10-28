@@ -10,6 +10,6 @@ My interests focus on network security, threat detection, and automation in secu
 
 ### 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/manojsaibangaru-a65474189/)
-- [Portfolio](https://yourwebsite.com) 
+- [Portfolio](https://yourwebsite.com)
 ### 📬 How to Reach Me:
 - Email: manojsaibangaru@gmail.com
